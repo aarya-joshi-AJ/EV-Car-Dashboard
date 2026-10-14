@@ -54,7 +54,8 @@ Sales trends help identify high-performing brands and market opportunities.
 Interactive dashboards make it easier to explore EV market data.
 Screenshoot:https://github.com/aarya-joshi-AJ/EV-Car-Dashboard/blob/main/Market%20Overview.png
 screenshoot:https://github.com/aarya-joshi-AJ/EV-Car-Dashboard/blob/main/Technical%20performance.png
-
+screenshoot:https://github.com/aarya-joshi-AJ/EV-Car-Dashboard/blob/main/price%20and%20segment%20analysis.png
+screenshoot:
 
 
 
