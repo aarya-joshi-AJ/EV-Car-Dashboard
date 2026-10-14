@@ -52,3 +52,12 @@ EV pricing varies across different brands and market segments.
 Driving range is an important factor in evaluating EV performance.
 Sales trends help identify high-performing brands and market opportunities.
 Interactive dashboards make it easier to explore EV market data.
+Screenshoot:
+
+
+
+
+
+
+
+
