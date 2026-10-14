@@ -55,7 +55,7 @@ Interactive dashboards make it easier to explore EV market data.
 Screenshoot:https://github.com/aarya-joshi-AJ/EV-Car-Dashboard/blob/main/Market%20Overview.png
 screenshoot:https://github.com/aarya-joshi-AJ/EV-Car-Dashboard/blob/main/Technical%20performance.png
 screenshoot:https://github.com/aarya-joshi-AJ/EV-Car-Dashboard/blob/main/price%20and%20segment%20analysis.png
-screenshoot:
+screenshoot:https://github.com/aarya-joshi-AJ/EV-Car-Dashboard/blob/main/sales%20%2CRating%20and%20market%20trand.png
 
 
 
